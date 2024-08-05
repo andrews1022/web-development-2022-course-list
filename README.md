@@ -538,6 +538,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Ruby on Rails (Ruby)
 
+- [Full Stack Rails Mastery - Learn to build professional Rails 7 apps](https://learnetto.com/users/hrishio/courses/full-stack-rails-mastery) by Hrishi Mittal _(51 lectures / 4 hrs)_
 - [Dissecting Ruby on Rails 5 - Become a Professional Developer](https://www.udemy.com/course/professional-rails-5-development-course/) by Jordan Hudgens _(246 lectures / 43hrs)_
 - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) by Rob Percival & Mashrur Hossain _(432 lectures / 48hrs)_
 
